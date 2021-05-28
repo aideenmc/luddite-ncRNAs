@@ -1,0 +1,3 @@
+[submodule "msc-report"]
+	path = msc-report
+	url = https://github.com/aideenmc/msc-report
